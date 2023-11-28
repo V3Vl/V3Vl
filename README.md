@@ -16,9 +16,9 @@
   <a href="https://www.zhihu.com/people/xi-gua-pi-pi-60"><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp; -->
 </div>
 
-## 已上线/即将上线/这辈子深耕的项目
+## 已上线/即将上线/长期深耕维护的项目
 #### 欢迎关注公众号 - 可以服饰
-#### 可以服饰网：[cvweb3.com] - Nuxt3大型服装网站
+#### 可以服饰网：<a href="https://www.cvweb3.com">cvweb3.com</a> - Nuxt3大型服装网站
 #### 金铲铲攻略专区 - skyline微信小程序
 [微信小程序二维码]
 #### 我的博客：<a href="https://p8d.gitee.io/zone"><img src="https://img.shields.io/badge/pany-个人博客-blue"></a>&emsp;
