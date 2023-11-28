@@ -1,6 +1,6 @@
 ### Hi 👋
 <h1 align="center">
-<a href="https://pany.netlify.app"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=1000&pause=1000&color=000000&background=A75EFF00&vCenter=true&width=580&lines=console.log('再等等，高质量大项目马上上线，先沉淀一下')" alt="Typing SVG" />
+<a href="https://pany.netlify.app"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=1000&pause=1000&color=000000&background=A75EFF00&vCenter=true&width=650&lines=console.log('先沉淀一下，几个超牛掰的项目马上完成')" alt="Typing SVG" />
 </a>
 </h1>
 
@@ -18,8 +18,9 @@
 
 # 🙋 还在线的项目
 ### 欢迎关注公众号 - 可以服饰
-### 可以服饰网：[cvweb3.com]
-### 金铲铲攻略专区 - 微信小程序：[微信小程序二维码]
+### 可以服饰网：[cvweb3.com] - Nuxt3前台网站
+### 金铲铲攻略专区 - skyline微信小程序
+[微信小程序二维码]
 ### 我的博客：<a href="https://p8d.gitee.io/zone"><img src="https://img.shields.io/badge/pany-个人博客-blue"></a>&emsp;
 </br>
 </br>
@@ -37,10 +38,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-- VUE全家       ███████████░░░░░░░░░░░░░░   41.36 %
-- 三剑客        █████████░░░░░░░░░░░░░░░░   39.68 %
-- TypeScript   ████████░░░░░░░░░░░░░░░░░   37.50 %
+- 学习       ███████████░░░░░░░░░░░░░░   41.36 %
+- 生活       █████████░░░░░░░░░░░░░░░░   39.68 %
+- 内心       ████████░░░░░░░░░░░░░░░░░   37.50 %
 ```
+
+- 不断进步，不断发现自己的无知。
+- 当我学到内核时，我想忘掉曾经的所有，重新开始学习，因为那是新的任督二脉。
+
+
 <!--END_SECTION:waka-->
 
 </tr>
