@@ -1,6 +1,6 @@
 ### Hi 👋
 <h1 align="center">
-<a href="https://pany.netlify.app"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=1000&pause=1000&color=000000&background=A75EFF00&vCenter=true&width=580&lines=console.log('看个乐子，还没做完:D')" alt="Typing SVG" />
+<a href="https://pany.netlify.app"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=1000&pause=1000&color=000000&background=A75EFF00&vCenter=true&width=580&lines=console.log('再等等，高质量大项目马上上线，先沉淀一下')" alt="Typing SVG" />
 </a>
 </h1>
 
