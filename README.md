@@ -18,8 +18,8 @@
     
 ## 已上线/即将上线/长期深耕维护的项目
 #### 欢迎关注公众号 - 可以服饰
-#### 可以服饰网：<a href="https://www.cvweb3.com">cvweb3.com</a>
-#### 金铲铲攻略专区 - skyline微信小程序
+#### 可以服饰网：<a href="https://www.cvweb3.com">cvweb3.com</a> - 【nuxt + nodejs】
+#### 金铲铲攻略专区 - 微信小程序 -【skyline】
 [微信小程序二维码]
 #### 我的博客：<a href="https://p8d.gitee.io/zone"><img src="https://img.shields.io/badge/pany-个人博客-blue"></a>&emsp;
 </br>
